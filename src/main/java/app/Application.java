@@ -1,5 +1,7 @@
 package app;
 
+// Проверьте, что при выполнении метода main время, которое пишет таймер, одно и тоже.
+
 import app.config.AppConfig;
 import app.model.AnimalsCage;
 import org.springframework.context.ApplicationContext;
